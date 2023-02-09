@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet -v Star Wars IV
+telnet towel.blinkenlights.nl
