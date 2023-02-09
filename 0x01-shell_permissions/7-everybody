@@ -1,2 +1,2 @@
 #!/bin/bash
-751 hello
+chmod 751 hello
